@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="common">
+    <output-path>$PROJECT_DIR$/out/artifacts/common</output-path>
+    <root id="root">
+      <element id="archive" name="common.jar">
+        <element id="module-output" name="common" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/Common/src/common/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
