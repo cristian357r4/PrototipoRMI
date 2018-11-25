@@ -1,0 +1,3 @@
+Codigo para poder correr el rmiregistry y que ademas acepte las peticiones debe ejecutarse en donde esten las clases de la interfaz remota
+
+rmiregistry -J-Djava.rmi.server.useCodebaseOnly=false
